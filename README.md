@@ -1,4 +1,4 @@
-# ViMAGE
+# Vi-MAGE
 **Vi**deo **M**etadata **A**utomated **G**enerator and **E**xtractor
 
 Video real time processing of audiovisual content for the automation of editing, distributing and playing this content while enriching the end user experience and augmenting the value of the content over time for the benefit of content owners.  
