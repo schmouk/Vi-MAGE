@@ -1,5 +1,5 @@
 # ViMAGE
-Video Metadata Automated Generator and Extractor
+**Vi**deo **M**etadata **A**utomated **G**enerator and **E**xtractor
 
 Video real time processing of audiovisual content for the automation of editing, distributing and playing this content while enriching the end user experience and augmenting the value of the content over time for the benefit of content owners.  
 The aim of this project is to develop a whole platform for such processing, in Linux as well as Windows operating systems.
